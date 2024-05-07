@@ -9,8 +9,6 @@ const queue = new Map();
 const prefix = process.env.PREFIX;
 const token = process.env.TOKEN;
 
-Discord.inte;
-
 client.once("ready", () => {
   console.log("Ready!");
 });
